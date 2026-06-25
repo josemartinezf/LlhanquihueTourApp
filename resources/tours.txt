@@ -1,0 +1,7 @@
+Navegación Lago Llanquihue;panorámico;25000;15
+Trekking Volcán Osorno;aventura;45000;8
+Degustación Quesos Frutillar;gastronómico;18000;20
+Kayak Río Maullín;aventura;30000;5
+Tour Saltos del Petrohué;panorámico;22000;0
+Ruta Gastronómica Puerto Varas;gastronómico;35000;10
+Avistamiento de Aves Reserva Llanquihue;naturaleza;28000;12
